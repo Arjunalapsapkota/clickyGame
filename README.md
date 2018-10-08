@@ -1,3 +1,3 @@
 # clickyGame
 
-Deployed On Heroku : [link](https://clickyclikster.herokuapp.com/)
+Deployed On Heroku : [ClickyGame](https://clickyclikster.herokuapp.com/)
