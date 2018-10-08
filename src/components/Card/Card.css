@@ -1,0 +1,15 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  text-align: center;
+  margin: 1rem;
+  padding:auto;
+  margin-top: 10px;
+  
+  width: 300px;
+  height: 300px;
+  
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  overflow: hidden;
+  display:inline-block;
+}
